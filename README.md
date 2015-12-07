@@ -3,31 +3,6 @@
 
 Original: https://github.com/uberspot/2048-android
 
-## To submit:
-
-https://classroom.github.com/assignment-invitations/1a8d991a96375a455104d957baef3ee7 
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/2048-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
- 
- ## Videocapture:
------------
-[![screenshot](screenshot_001.png)](https://youtu.be/EUCsB4HbWwI)
-
- 
 
 ## Build
 
